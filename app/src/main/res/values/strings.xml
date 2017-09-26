@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotifyApp</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="notify_new_intent">This is the new Notification Intent</string>
+</resources>
