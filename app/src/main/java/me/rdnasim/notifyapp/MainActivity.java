@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void myNotifyBtn(View view) {
 
-        notification.setSmallIcon(R.mipmap.ic_launcher);
+        notification.setSmallIcon(R.mipmap.just_create);
         notification.setTicker("This is the ticker");
         notification.setWhen(System.currentTimeMillis());
 
